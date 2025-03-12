@@ -15,6 +15,8 @@ A Python-based maze game built with Pygame, featuring **procedural maze generati
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/KoushikSivakumar/Kevin-s-Bizarre-Maze-Run.git
+   ```
+   ```
    cd Kevin-s-Bizarre-Maze-Run
    ```
 2. **Install dependencies**:
