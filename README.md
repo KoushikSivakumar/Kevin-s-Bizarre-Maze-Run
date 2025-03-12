@@ -28,8 +28,9 @@ A Python-based maze game built with Pygame, featuring **procedural maze generati
    python main.py
    ```
 
-## Controls
-Move: **Arrow Keys**  
+### Controls
+
+- Move: **Arrow Keys**  
 ---
 
 Developed by Koushik Sivakumar.
